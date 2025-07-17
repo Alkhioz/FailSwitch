@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "FailSwitch",
-  "version": "1.0.0",
-  "description": "Simulate network failures and mocked responses for testing and QA.",
+  "version": "0.0.1",
+  "description": "Simulate network failures for testing and QA.",
   "permissions": [
     "storage",
     "declarativeNetRequest",
